@@ -8,7 +8,7 @@ import "@openzeppelin/contracts/utils/Strings.sol";
 import "./interfaces/ILayerZeroEndpoint.sol";
 
 /// @title A LayerZero interoperable non fongible token
-/// @author Ferdinand Attivi
+/// @author Josephtran
 /// @notice You can use this to mint LayerZeroNFT: Max limit reached and transfer across chain
 /// @dev All function calls are currently implemented without side effects
 contract LayerZeroNFT is
